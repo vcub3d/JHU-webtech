@@ -36,7 +36,7 @@ section{
 
 }
 #chicken{
-  border: 1px solid green;
+  border: 1px solid black;
   width: 30%;
   margin-left: 70%;
   text-align: center;
@@ -49,7 +49,7 @@ section{
   background-color: #1aa70d;
 }
 #beef{
-  border: 1px solid darkred;
+  border: 1px solid black;
   width: 30%;
   margin-left: 70%;
   margin-top: 0;
@@ -63,7 +63,7 @@ section{
 
 }
 #sushi{
-  border: 1px solid darkblue;
+  border: 1px solid black;
   width: 30%;
   margin-left: 70%;
   text-align: center;
